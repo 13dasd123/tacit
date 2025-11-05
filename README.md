@@ -24,8 +24,8 @@ The details are here:
 <html>
   <head>
     <link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/tacit-css@1.9.3/dist/tacit-css.min.css"
-      integrity="sha384-NzI5kHQ7+DeiX+Zzd9MnGjKdzoIK3pVGizKBNZ/mLOyjTp0wEisoMe+or1rwuV4p"
+      href="https://cdn.jsdelivr.net/npm/tacit-css@/dist/tacit-css.min.css"
+      integrity="sha384-OLBgp1GsljhM2TJ+sbHjaiH9txEUvgdDTAzHv2P24donTt6/529l+9Ua0vFImLlb"
       crossorigin="anonymous"/>
   </head>
 </html>
